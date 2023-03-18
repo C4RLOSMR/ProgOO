@@ -90,8 +90,6 @@ visualmente el comportamiento y la estructura de un sistema o proceso.
 -La empresa ITJUANA utiliza UML.
 
 
--La máquina dispensadora tiene una clase principal "Máquina dispensadora" que contiene atributos como "pantalla", "teclado" y "ranura de dispensación". También tiene un  método "mostrar opciones" que muestra las opciones de productos disponibles en la pantalla, un método "recibir selección" que recibe la selección del usuario a través del teclado y un método "entregar producto" que dispensa el producto seleccionado en la ranura de dispensación.  
+-La máquina dispensadora
 
-La clase "Producto" representa los diferentes productos disponibles en la máquina dispensadora y tiene atributos como "nombre" y "precio". La clase "Inventario" mantiene un registro de la cantidad de cada producto disponible en la máquina dispensadora.  
-
-La clase "Transacción" representa una transacción de compra de un producto y tiene atributos como "producto seleccionado" y "monto pagado". La clase "Cambio" representa el cambio que debe entregarse al usuario después de la compra y tiene un atributo "cantidad".  
+![](./img1/uml.png)
