@@ -1,5 +1,5 @@
 
-Definicion de Paradigma
+**Definicion de Paradigma**
 -Se denominan paradigmas de programación a las formas de clasificar los lenguajes de programación en función de sus características.   
 Los idiomas se pueden clasificar en múltiples paradigmas.  
 
@@ -15,15 +15,15 @@ estructurar un programa de software en piezas simples y reutilizables de planos 
 de objetos.
 
 
--Primer lenguaje de POO
+-**Primer lenguaje de POO**
 SmallTalk, por Alan Kay en Xerox PARC.
 
 
--La abstraccion es identificar las caracteristicas y las funciones que tiene un objeto y que se representan en clases con atributos
+-La *abstraccion* es identificar las caracteristicas y las funciones que tiene un objeto y que se representan en clases con atributos
 y metodos de esa clase.
 
 
--El encapsulamiento es una manera de proteger a los objetos de cambios no autorizados y ayuda a la modularidad al programar porque 
+-El *encapsulamiento* es una manera de proteger a los objetos de cambios no autorizados y ayuda a la modularidad al programar porque 
 al encapsular un objeto puede tratarse como independiente.  
 
 
@@ -32,7 +32,7 @@ al encapsular un objeto puede tratarse como independiente.
 
 ![](./img1/noencapsulamiento.jpg)
 
--La herencia permite a una clase heredar las propiedades y comportamientos de otra clase(Clase padre).
+-La *herencia* permite a una clase heredar las propiedades y comportamientos de otra clase(Clase padre).
 
 
 ![](./img1/herencia.gif)
@@ -40,21 +40,21 @@ al encapsular un objeto puede tratarse como independiente.
 
 
 
-UML: DIAGRAMA DE CLASES  
--Grady Booch (27 de febrero de 1955) es un diseñador de software, un metodologista de software y entusiasta del diseño de patrones. Es  director científico de Rational Software (ahora parte de IBM) y editor de una serie de Benjamin/Cummings. En 1995 se recibió como  miembro de la Asociación de Maquinaria Computacional (ACM). Fue nombrado socio de IBM en 2003.  
+**UML: DIAGRAMA DE CLASES**
+-**Grady Booch** (27 de febrero de 1955) es un diseñador de software, un metodologista de software y entusiasta del diseño de patrones. Es  director científico de Rational Software (ahora parte de IBM) y editor de una serie de Benjamin/Cummings. En 1995 se recibió como  miembro de la Asociación de Maquinaria Computacional (ACM). Fue nombrado socio de IBM en 2003.  
 Es más conocido por el desarrollo del Lenguaje Unificado de Modelado (UML), junto con Ivar Jacobson y James Rumbaugh. También  
 desarrolló el método Booch de desarrollo de software, el que presenta en su libro Análisis y diseño orientado a objetos. Él aconseja  
 la adición de más clases para simplificar códigos complejos.  
 
 
--James Rumbaugh (22 de agosto de 1947) es un científico de la computación y un metodologista de objeto. Es más conocido por su trabajo  
+-**James Rumbaugh** (22 de agosto de 1947) es un científico de la computación y un metodologista de objeto. Es más conocido por su trabajo  
 en la creación de la Técnica de Modelado de Objetos y el Lenguaje Unificado de Modelado (UML). Doctorado en ciencias de la      computación  por el M.I.T.  
 Rumbaugh dirigió el desarrollo de la metodología OMT, en el Centro de Investigación y Desarrollo de la General Electric, donde trabajó durante más de 25 años.  
 Se unió a Rational Software en 1994, y trabajó allí con Ivar Jacobson y Grady Booch ("los Tres Amigos") para desarrollar UML. Más   tarde fusionaron sus metodologías de desarrollo de software, OMT, OOSE y Booch en el Proceso Unificado Racional (RUP). En el 2003 se 
 trasladó a IBM, después de su adquisición de Rational Software. Se retiró en 2006.  
 
 
--Ivar Hjalmar Jacobson (2 de septiembre de 1939, Ystad - ), es un ingeniero sueco en Ciencias de la computación.  
+-**Ivar Hjalmar Jacobson** (2 de septiembre de 1939, Ystad - ), es un ingeniero sueco en Ciencias de la computación.  
 Inventó el diagrama de secuencia y desarrolló los diagramas de  
 colaboración. También impuso el uso de diagramas de estado de transición  
 para describir los flujos de mensajes entre los componentes. Fue uno de  
