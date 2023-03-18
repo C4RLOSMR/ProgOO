@@ -1,4 +1,3 @@
-[El Paradigma OO] ./ParadigmaOO/README.md
 
 Definicion de Paradigma
 -Se denominan paradigmas de programación a las formas de clasificar los lenguajes de programación en función de sus características.   
@@ -26,11 +25,11 @@ y metodos de esa clase.
 
 -El encapsulamiento es una manera de proteger a los objetos de cambios no autorizados y ayuda a la modularidad al programar porque 
 al encapsular un objeto puede tratarse como independiente.
-![](./img1/encapsulamiento.gif){width=250 height=250}
-![](./img1/noencapsulamiento.jpg){width=250 height=250}
+![](./img1/encapsulamiento.gif)
+![](./img1/noencapsulamiento.jpg)
 
 -La herencia permite a una clase heredar las propiedades y comportamientos de otra clase(Clase padre).
-![](./img1/herencia.gif){width=250 height=250}
+![](./img1/herencia.gif)
 
 
 
