@@ -89,7 +89,9 @@ visualmente el comportamiento y la estructura de un sistema o proceso.
 
 -La empresa ITJUANA utiliza UML.
 
+![](./img1/2.JPG)
 
--La máquina dispensadora
+
+-**máquina dispensadora UML**
 
 ![](./img1/UML.jpg)
