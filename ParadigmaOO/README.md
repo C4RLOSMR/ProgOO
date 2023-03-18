@@ -92,4 +92,4 @@ visualmente el comportamiento y la estructura de un sistema o proceso.
 
 -La máquina dispensadora
 
-![](./img1/uml.png)
+![](./img1/UML.jpg)
